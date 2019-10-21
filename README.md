@@ -7,6 +7,8 @@
 - [x] Read the getting started with Docker and complete the hands-on exercises.
 ## Videos
 ## Readings and Resources
+* [Containerization vs. Virtualization](https://blog.netapp.com/blogs/containers-vs-vms/)
+* [Docker vs. Kubernetes](https://www.guru99.com/kubernetes-vs-docker.html)
 * [Docker Getting Started](https://docs.docker.com/get-started/)
 * [Docker Command Line Reference](https://docs.docker.com/engine/reference/commandline/docker/)
 * [Getting a .Net Container Running](https://hub.docker.com/_/microsoft-dotnet-core-samples)
