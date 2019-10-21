@@ -14,4 +14,6 @@
 * [Getting a .Net Container Running](https://hub.docker.com/_/microsoft-dotnet-core-samples)
 * [Dotnet Docker Documentation](https://docs.microsoft.com/en-us/dotnet/core/docker/introduction)
 * [Docker Build and Run Your First Windows Container Container](https://www.docker.com/blog/build-your-first-docker-windows-server-container/)
+* [Docker Container Management Guide](https://www.sumologic.com/insight/docker-containers-management/)
+* [Docker Image Manage and Share Guide](https://runnable.com/docker/rails/manage-share-docker-images)
 
