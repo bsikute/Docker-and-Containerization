@@ -4,8 +4,8 @@
 - [x] Update your Windows 10 installation to 1903
 - [x] [Signup for Docker](https://hub.docker.com/signup)
 - [x] [Install Docker Desktop](https://docs.docker.com/docker-for-windows/install/)
-- [x] Read the getting started with Docker and complete the hands-on exercises.
 ## Videos
+* [Module Introduction and Demonstration](https://youtu.be/piASazWZjV8)
 ## Readings and Resources
 * [Containerization vs. Virtualization](https://blog.netapp.com/blogs/containers-vs-vms/)
 * [Docker vs. Kubernetes](https://www.guru99.com/kubernetes-vs-docker.html)
